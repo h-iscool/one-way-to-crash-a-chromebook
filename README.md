@@ -2,3 +2,4 @@
 I was unsure what to do.... so idk.
 This is one way of crashing a chromebook.
 I probably will add more ways soon.
+Oh, to use just open "Main.html"
